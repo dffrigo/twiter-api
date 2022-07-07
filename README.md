@@ -5,7 +5,7 @@
 <img width="795" alt="MIT JavaScript Node Express Cors Mongo Swagger" src="https://user-images.githubusercontent.com/102762000/177672216-faa7f90f-b246-4835-94ff-48c3e40bebc2.png">
 
 
-Hello dear! My first API => Back-end For Front-end: Twitter login screen clone  with Cloud MongoDB. Let's rock!
+Hello dear! API => Back-end For Front-end: Twitter login screen clone  with Cloud MongoDB. Let's rock!
 
 
 ![API twitter login screen clone](https://user-images.githubusercontent.com/102762000/177671440-b3ffa21c-4f86-480c-a14d-54598cf9f4ae.png)
