@@ -3,7 +3,7 @@
 
 <img width="533" alt="MIT JavaScript Node Express Cors" src="https://user-images.githubusercontent.com/102762000/175974904-a9998fb2-5a75-4318-aca9-8fd2a1c61534.png">
 
-Mein lieber Freund! My first API => Back-end For Front-end: Twitter login screen clone  with Cloud MongoDB. Wunderbar!
+Hello dear! My first API => Back-end For Front-end: Twitter login screen clone  with Cloud MongoDB. Let's rock!
 
 ![API twitter login screen clone](https://user-images.githubusercontent.com/102762000/177671440-b3ffa21c-4f86-480c-a14d-54598cf9f4ae.png)
 
